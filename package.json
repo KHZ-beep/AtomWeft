@@ -1,0 +1,15 @@
+{
+  "name": "atomweft",
+  "version": "0.3.2",
+  "private": true,
+  "type": "module",
+  "scripts": {
+    "test": "node --test tests/scene.test.mjs tests/advanced.test.mjs tests/depth_coordination.test.mjs"
+  },
+  "license": "MIT",
+  "author": "KHZ-beep",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/KHZ-beep/AtomWeft.git"
+  }
+}
