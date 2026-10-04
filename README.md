@@ -2,7 +2,6 @@
 
 将分子和晶体结构转换为 PowerPoint 可编辑图形。数据在本机处理，不上传结构文件。
 
-本项目原开发名称为 MolSlide，现更名为 AtomWeft，与 Protein Explorer 的 MolSlides 项目无隶属关系。旧版保存的 v1/v2 JSON 项目仍可直接打开。安装器会识别本项目旧版注册并迁移入口，保留旧程序文件和项目。
 
 ## 安装
 
